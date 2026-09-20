@@ -1,0 +1,8 @@
+interface:
+  display_name: "Match Me 工作流顾问"
+  short_description: "从本机资料规划个性化 AI 工作流"
+  default_prompt: "Use $match-me to analyze my authorized work materials and propose a practical monthly AI workflow."
+  brand_color: "#4F46E5"
+
+policy:
+  allow_implicit_invocation: true
